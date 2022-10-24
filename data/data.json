@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "asdf32",
+      "body": "adsfq",
+      "author": "John Doe",
+      "id": 1
+    },
+    {
+      "title": "dsaf",
+      "body": "dsf",
+      "author": "John Doe",
+      "id": 2
+    }
+  ]
+}
